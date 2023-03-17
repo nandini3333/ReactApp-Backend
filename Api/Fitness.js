@@ -44,7 +44,7 @@ const get = (req, res) => {
 
         {
             title: "Find out why you may not be able to lose weight despite eating well, exercising, sleeping",
-            content: "For people who are on a weight-loss journey — even those who are following everything diligently — there may come a point when they begin to realise that it is not yielding desired results. What may appear to be a lack of progress is nothing but ‘weight plateau’ or ‘weight-loss plateau’.",
+            content: "For people who are on a weight-loss journey — even those who are following everything diligently — there may come a point when they begin to realise that it is not yielding desired results. What may appear to be a lack of progress is nothing.",
             content1: "There are literally thousands of ways to exercise... says nutritionist Bhakti Kapoor Many people have the wrong perception of physical fitness. They believe that doing high-intensity workouts at the gym.There are literally thousands of ways to exercise... says nutritionist Bhakti Kapoor Many people have the wrong perception of physical fitness. They believe that doing high-intensity workouts at the gym",
             publishedAt: "December 15, 2022 17:00 IST",
             author: "LifeStyle Desk",

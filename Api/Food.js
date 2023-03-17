@@ -42,9 +42,9 @@ const get = (req, res) => {
         },
         {
             title: "Here’s how to make Homemade Cake with Idli batter, Baking a cake is not an easy task. It takes a lot of hard work to perfect ",
-            content: "Baking a cake is not an easy task. It takes a lot of hard work to perfect the art of cake making. Often, it is advised to bake a cake using the proper measurements. If this is not followed, you will not be able to bake that perfect cake. Some of the common ingredients used to make that perfect cake are -",
+            content: "Baking a cake is not an easy task. It takes a lot of hard work to perfect the art of cake making. Often, it is advised to bake a cake using the proper measurements. If this is not followed, you will not be able to bake that perfect cake.",
             content1: "When it comes to creativity around food, there are no boundaries. It has been proven once again by the popular sandwich chain Subway, which recently introduced a new sandwich by the name of a Japanese-inspired Teriyaki Steak.When it comes to creativity around food, there are no boundaries. It has been proven once again by the popular sandwich chain Subway, which recently introduced a new sandwich by the name of a Japanese-inspired Teriyaki Steak.",
-            publishedAt: "-Feb 4, 2023, 08:08 IST",
+            publishedAt: "Feb 4, 2023, 08:08 IST",
             author: "TIMESOFINDIA",
             urlToImage: "https://static.toiimg.com/thumb/97593034.cms?width=680&height=512&imgsize=66644",
             url: "https://timesofindia.indiatimes.com/life-style/food-news/heres-how-to-make-homemade-cake-with-idli-batter/photostory/97593024.cms",

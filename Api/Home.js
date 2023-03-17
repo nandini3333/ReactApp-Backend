@@ -4,7 +4,7 @@ const get = (req, res) => {
             title: "iPhone ‘Ultra’ in the Works, Said to Offer Better Features Than Pro Model",
             content: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. ",
             content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
-            publishedAt: "6 February 2023 12:27 IST",
+            publishedAt: "February 6,2023",
             author: "Sheldon Pinto",
             urlToImage: "https://i.gadgets360cdn.com/large/iphone_14_pro_max_apple_1666942701797.jpg?downsize=950:*",
             url: "https://www.gadgets360.com/mobiles/news/iphone-16-pro-max-ultra-model-expected-features-samsung-s23-ultra-mark-gurman-apple-3756740#pfrom=home-popular",
@@ -41,6 +41,16 @@ const get = (req, res) => {
 
         },
         {
+            title: "‘No excuses’: For Shilpa Shetty, training continues even when she is on set",
+            content: "This is a great practice for the glutes, and also helps prevent a flat butt",
+            content1: "There are literally thousands of ways to exercise... says nutritionist Bhakti Kapoor Many people have the wrong perception of physical fitness. They believe that doing high-intensity workouts at the gym.There are literally thousands of ways to exercise... says nutritionist Bhakti Kapoor Many people have the wrong perception of physical fitness. They believe that doing high-intensity workouts at the gym",
+            publishedAt: " February 6, 2023 10:00 IST",
+            author: "LifeStyle Desk",
+            urlToImage: "https://images.indianexpress.com/2023/01/shilpa-shetty.jpg",
+            url: "https://indianexpress.com/article/lifestyle/fitness/shilpa-shetty-doesnt-skip-work-out-even-while-shooting-teaches-bird-dog-exercise-that-requires-no-equipments-8387698/",
+
+        },  
+        {
             title: "San Francisco sees 15X increase in “millionaire renters",
             content: "Number of rich tenants ramped up nationwide over five years, RentCafe finds",
             content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
@@ -73,7 +83,7 @@ const get = (req, res) => {
 
         {
             title: "U.S. judge denies FTC request to stop Meta from acquiring VR firm Within - Reuters",
-            content: "imagesWASHINGTON, Feb 3 (Reuters) - A judge on Friday released a ruling denying the Federal Trade Commission's request to stop Meta Platforms Inc (META.O) from buying virtual reality content maker Within U… [+2079 chars]",
+            content: "imagesWASHINGTON, Feb 3 (Reuters) - A judge on Friday released a ruling denying the Federal Trade Commission's request to stop Meta Platforms Inc (META.O) from buying virtual reality content maker",
             content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
             publishedAt: "2023-02-04T03:51:00Z",
             author: "Husag samree",
@@ -82,8 +92,19 @@ const get = (req, res) => {
 
         },
         {
+            title: "Four reasons your lower back may be paining; and what to do about it",
+            content: "Fitness expert Namrata Purohit shares her tips and simple exercises on on how to fix lower back pain",
+            content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
+            publishedAt: "Updated: January 30, 2023 12:11 IST",
+            author: "LifeStyle Desk",
+            urlToImage: "https://images.indianexpress.com/2023/01/Fix-lower-back-pain.jpg",
+            url: "https://indianexpress.com/article/lifestyle/fitness/lower-back-pain-and-what-to-do-about-it-8397939/",
+
+        },
+  
+        {
             title: "The sushi has stopped revolving at Japan’s biggest revolving sushi restaurant chain",
-            content: "Sushiro is Japan’s largest and most popular kaitenzushi, or revolving sushi, restaurant chain. There are roughly 650 Sushiro locations across Japan, and if you’re heading to one anytime around regular dinner hours, usually you can pretty sure it’s going to be crowded with customers.",
+            content: "Sushiro is Japan’s largest and most popular kaitenzushi, or revolving sushi, restaurant chain. There are roughly 650 Sushiro locations across Japan, and if you’re heading to one anytime around regular dinner hours",
             content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
             publishedAt: "February 3-2023",
             author: "Casey Baseel",
@@ -146,7 +167,7 @@ const get = (req, res) => {
             title: "Here’s how to make Homemade Cake with Idli batter ",
             content: "Baking a cake is not an easy task. It takes a lot of hard work to perfect the art of cake making. Often, it is advised to bake a cake using the proper measurements. If this is not followed",
             content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
-            publishedAt: "-Feb 4, 2023, 08:08 IST",
+            publishedAt: "Feb 4, 2023, 08:08 IST",
             author: "TIMESOFINDIA",
             urlToImage: "https://static.toiimg.com/thumb/97593034.cms?width=680&height=512&imgsize=66644",
             url: "https://timesofindia.indiatimes.com/life-style/food-news/heres-how-to-make-homemade-cake-with-idli-batter/photostory/97593024.cms",
@@ -162,17 +183,7 @@ const get = (req, res) => {
             url: "https://indianexpress.com/article/lifestyle/fitness/burnout-fitness-drill-mood-8046123/",
 
         },
-        {
-            title: "Four reasons your lower back may be paining; and what to do about it",
-            content: "Fitness expert Namrata Purohit shares her tips and simple exercises on on how to fix lower back pain",
-            content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
-            publishedAt: "Updated: January 30, 2023 12:11 IST",
-            author: "LifeStyle Desk",
-            urlToImage: "https://images.indianexpress.com/2023/01/Fix-lower-back-pain.jpg",
-            url: "https://indianexpress.com/article/lifestyle/fitness/lower-back-pain-and-what-to-do-about-it-8397939/",
-
-        },
-  
+    
 
     ])
 

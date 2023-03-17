@@ -4,7 +4,7 @@ const get = (req, res) => {
             title: "Embarrass You In 15 Years",
             content: "Nick Jonas and Priyanka Chopra revealed the face of Malti Marie for the first time to the media at an event",
             content1: "The publisher of Sports Illustrated and other outlets is using artificial intelligence to help produce articles and pitch journalists potential topics to follow, the latest example of a media company… [+489 chars].The publisher of Sports Illustrated and other outlets is using artificial intelligence to help produce articles and pitch journalists potential topics to follow, the latest example of a media company… [+489 chars]",
-            publishedAt: "ebruary 01, 2023 11:17 am IST",
+            publishedAt: "Feb 01, 2023 11:17 am IST",
             author: " Pranita Chaubey",
             urlToImage: "https://c.ndtvimg.com/2023-02/ctb0fh78_-nick-jonas-_625x300_01_February_23.jpg",
             url: "https://www.ndtv.com/entertainment/nick-jonas-can-t-wait-to-embarrass-daughter-malti-marie-over-hollywood-walk-of-fame-star-after-15-years-3741728",
@@ -82,7 +82,7 @@ const get = (req, res) => {
 
         },
         {
-            title: "Golden Globe Awards: Tom Cruise And Will Smith Weren't There But Were Roasted Anyway",
+            title: "Golden Globe Awards: Tom Cruise And Will Smith roasted",
             content: "80th Golden Globe Awards: Here are some of the more memorable moments from the 80th edition of the awards, held at the Beverly Hilto",
             content1: "The publisher of Sports Illustrated and other outlets is using artificial intelligence to help produce articles and pitch journalists potential topics to follow, the latest example of a media company… [+489 chars].The publisher of Sports Illustrated and other outlets is using artificial intelligence to help produce articles and pitch journalists potential topics to follow, the latest example of a media company… [+489 chars]",
             publishedAt: "January 1, 2023 5:32 pm IST",

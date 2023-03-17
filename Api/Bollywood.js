@@ -83,7 +83,7 @@ const get = (req, res) => {
 
         },
         {
-            "title": "Salman Khan Promoting Selfiee’s Main Khiladi With Akshay Kumar Receives Mixed Reactions From Netizens",
+            "title": "Salman Khan Promoting Selfiee’s Main Khiladi With Akshay Kumar Receives Mixed Reaction",
             "content": "Salman Khan has joined Akshay Kumar to promote his Selfiee and them dancing to Main Khiladi has taken the internet by storm. Read on.",
             "content1": "Superstar Shah Rukh Khan’s film Pathaan, which was released on January 25, has taken the box office by storm not only in the domestic market but also overseas. As the film is breaking all the records Superstar Shah Rukh Khan’s film Pathaan, which was released on January 25, has taken the box office by storm not only in the domestic market but also overseas. As the film is breaking all the records",
             "publishedAt": "February 5, 2023",
@@ -93,7 +93,7 @@ const get = (req, res) => {
 
         },
         {
-            "title": "Radhika Madan Starrer ‘Sanaa’ Goes International, To Be Premiered At Santa Barbara International Film Fest",
+            "title": "Radhika Madan Starrer ‘Sanaa’ Goes International, To Be Premiered At Santa Barbara",
             "content": "Filmmaker Sudhanshu Saria's directorial 'Sanaa' starring Radhika Madan has locked its North American premiere at the Santa Barbara. ",
             "content1": "Superstar Shah Rukh Khan’s film Pathaan, which was released on January 25, has taken the box office by storm not only in the domestic market but also overseas. As the film is breaking all the records Superstar Shah Rukh Khan’s film Pathaan, which was released on January 25, has taken the box office by storm not only in the domestic market but also overseas. As the film is breaking all the records",
             "publishedAt": "January 31, 2023",
