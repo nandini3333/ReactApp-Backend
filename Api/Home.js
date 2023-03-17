@@ -114,9 +114,9 @@ const get = (req, res) => {
         },
         {
             title: "Hackers who breached ION say ransom paid; company declines comment",
-            content: "WASHINGTON, Feb 3 (Reuters) - The hackers who claimed responsibility for a disruptive breach at financial data firm ION say a ransom has been paid",
+            content: "WASHINGTON, Feb 3 (Reuters) - The hackers who claimed responsibility for a disruptive breach at financial data firm ION say a ransom",
             content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
-            publishedAt: "February 4, 20238:38 AM GMT+5:30",
+            publishedAt: "February 4, 20238:38 AM",
             author: "By Raphael Satter",
             urlToImage: "https://www.reuters.com/resizer/C9sFHbhZLLLHybKeYgHVVMiKJ0U=/960x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OFOCCW3XVBIO7NURPXN2UGMF7Y.jpg",
             url: "https://www.reuters.com/technology/hackers-say-ransom-paid-case-derivatives-data-firm-ion-company-declines-comment-2023-02-03/",
