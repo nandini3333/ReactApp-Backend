@@ -51,13 +51,13 @@ const get = (req, res) => {
 
         },  
         {
-            title: "San Francisco sees 15X increase in “millionaire renters",
-            content: "Number of rich tenants ramped up nationwide over five years, RentCafe finds",
-            content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
-            publishedAt: "2022-02-04T03:51:00Z",
-            author: "Emile Landes",
-            urlToImage: "https://therealdeal.com/sanfrancisco/wp-content/uploads/2023/02/SFO-San-Francisco-sees-15X-increase-in-millionaire-renters-MAIN.jpg",
-            url: "https://therealdeal.com/sanfrancisco/2023/02/01/san-francisco-sees-15x-increase-in-millionaire-renters/"
+            title: "Dell to Lay Off About 6,650 Employees Amidst Falling Demand for PCs: Report",
+            content: "Dell Technologies will eliminate about 6,650 jobs, or about five percent of its global workforce, hurt by falling demand for its personal computers, Bloomberg News reported on Monday.",
+            content1: "The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, The metaverse, exploding in its use-cases for immersive digital ecosystems, is also becoming a playground for tech-savvy criminals. The International Criminal Police Organisation (ICPO), also dubbed Interpol, ",
+            publishedAt: " 6 February 2023 14:02 IST",
+            author: "Reuters",
+            urlToImage: "https://i.gadgets360cdn.com/large/dell_reuters__1675672313576.jpg?downsize=950:*",
+            url: "https://www.gadgets360.com/internet/news/dell-layoffs-tech-6650-jobs-5-percent-workforce-personal-computer-demand-decline-report-3757061#pfrom=home-popular",
 
         },
 
@@ -114,7 +114,7 @@ const get = (req, res) => {
         },
         {
             title: "Hackers who breached ION say ransom paid; company declines comment",
-            content: "WASHINGTON, Feb 3 (Reuters) - The hackers who claimed responsibility for a disruptive breach at financial data firm ION say a ransom has been paid, although they declined to say ",
+            content: "WASHINGTON, Feb 3 (Reuters) - The hackers who claimed responsibility for a disruptive breach at financial data firm ION say a ransom has been paid",
             content1: "Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding. Samsung was the first smartphone manufacturer to launch a smartphone globally with the Ultra-branding.Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi alias quod nesciunt nam, iusto tempore distinctio rem deserunt culpa totam tenetur mollitia repellat possimus consequuntur quo quas necessitatibus quasi eveniet!",
             publishedAt: "February 4, 20238:38 AM GMT+5:30",
             author: "By Raphael Satter",
